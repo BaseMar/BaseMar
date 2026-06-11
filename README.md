@@ -1,6 +1,6 @@
 # Hi, I'm Martino Sebastiani 👋
 
-### Junior Data Analyst | Python & Data Automation | Power BI | Streamlit
+### Entry-Level Data Analyst | Python | SQL | Power BI | Streamlit | Data Automation
 
 I'm developing my skills in data analysis, Python automation, databases, and analytical dashboards.  
 I like building practical projects that turn raw data into useful insights, clear visualizations, and decision-support tools.
