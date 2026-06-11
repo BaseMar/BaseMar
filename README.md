@@ -1,4 +1,4 @@
-# Hi, I'm Martino Sebastiani 👋
+# Hi, I'm Martino 👋
 
 ### Entry-Level Data Analyst | Python | SQL | Power BI | Streamlit | Data Automation
 
