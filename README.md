@@ -111,5 +111,4 @@ The project focuses on:
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martino%20Sebastiani-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martino-sebastiani-b17028279/)
-[![GitHub](https://img.shields.io/badge/GitHub-BaseMar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BaseMar)
 [![Email](https://img.shields.io/badge/Email-msmsebastiani%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msmsebastiani@gmail.com)
