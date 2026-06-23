@@ -21,7 +21,7 @@ Currently, I focus on:
 - 🧠 I work with **Python, SQL, Pandas, Streamlit, Plotly, PostgreSQL, Power BI, and DAX**
 - 📈 I enjoy projects related to **fitness analytics, personal finance, dashboards, and data-driven recommendations**
 - 🛠️ I build end-to-end projects: from data generation/collection, through processing and modeling, to visualization
-- 🎓 I am currently studying **Data Analysis / Data Science with AI elements**
+- 🎓 I have completed postgraduate studies in **Data Analysis / Data Science with AI Elements**
 - 🔍 I am looking for opportunities where I can grow in **data analysis, automation, reporting, and analytics engineering**
 - 🏋️ In my free time, I train at the gym and often combine this interest with data projects
 
