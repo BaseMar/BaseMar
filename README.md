@@ -2,8 +2,7 @@
 
 ### Junior Data Analyst | Python | SQL | Power BI | Streamlit | Data Automation
 
-I'm developing my skills in data analysis, Python automation, databases, and analytical dashboards.  
-I like building practical projects that turn raw data into useful insights, clear visualizations, and decision-support tools.
+Junior Python / Data Automation Specialist with experience in building tools for data processing, API integrations, and automation of repetitive processes. I work with Python and SQL, creating practical solutions that improve data extraction, processing, and presentation. I am looking for a data analyst role where I can further develop my skills in Python, integrations, and automation.
 
 Currently, I focus on:
 
