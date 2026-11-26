@@ -80,7 +80,7 @@ The project includes:
 ## 🛠️ Skills & Tools
 
 - **Data Analysis & Visualization** — Python, Pandas, NumPy, Plotly, Power BI, DAX, Power Query
-- **Databases & Data Engineering** — SQL, PostgreSQL, MS SQL, SQLAlchemy, Alembic, Supabase
+- **Databases & Data Engineering** — SQL, PostgreSQL, MS SQL, SQLAlchemy, Supabase
 - **Development & Testing** — Streamlit, pytest, Git, GitHub
 - **Machine Learning** — scikit-learn, Feature Engineering, Regression, Recommendation Systems
 
