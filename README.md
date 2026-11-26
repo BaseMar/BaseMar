@@ -10,7 +10,7 @@ I completed postgraduate studies in **Data Analysis / Data Science with AI Eleme
 
 ## 🚀 Featured Projects
 
-### Habit Quest Analytics · Flagship Project
+### Habit Quest Analytics
 
 An end-to-end productivity analytics application with RPG-inspired progression. It turns daily planning and check-ins into data users can use to understand their workload, consistency, and project progress.
 
