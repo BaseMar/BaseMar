@@ -46,18 +46,20 @@ The project focuses on:
 
 ### 🏋️ Workout Progress Analyzer
 
-End-to-end workout analytics dashboard built with **Python, Streamlit, PostgreSQL, Pandas, Plotly, and automated tests**.
-
-The application helps analyze:
-
-- strength progress and regressions
-- training consistency
-- fatigue patterns
-- muscle-group volume distribution
-- body composition and measurement trends
+An end-to-end training analytics application that connects structured workout plans, recorded exercise performance, and explainable recommendations for future training sessions.**.
 
 🔗 Repository: [ProgressAnalyzer](https://github.com/BaseMar/ProgressAnalyzer)  
 🌐 Live demo: [Streamlit App](https://progressanalyzer-jysznkmwcjnejwamgmlfqd.streamlit.app)
+
+Explore the **interactive demo** with generated training data, compare exercise performance, review training consistency, and preview recommendations for upcoming workouts without connecting to a personal database.
+
+- **Training analytics** — Analyze exercise performance, repetition and load progression, workout consistency, muscle-group volume distribution, and body measurement trends.
+- **Training plans and history** — Build weekly routines, configure training blocks and deloads, maintain versioned prescriptions, and link recorded workouts to planned sessions.
+- **Recommendation engine** — Generate explainable, rule-based training targets using recorded exercise history, repetition ranges, working loads, RIR, and available equipment increments.
+- **Data processing and modeling** — Import structured TXT workout notes, validate and normalize training records, and manage relational data with PostgreSQL, SQLite, and SQLAlchemy.
+- **Testing and deployment** — Validate business rules, analytical calculations, database operations, and user workflows with automated tests and GitHub Actions. Support cloud deployment and local Docker environments.
+
+**Stack** · Python, SQL, PostgreSQL, SQLite, SQLAlchemy, Pandas, Plotly, Streamlit, Supabase, pytest, Docker, GitHub Actions.
 
 ---
 
